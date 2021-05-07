@@ -833,6 +833,11 @@ $(document).ready(function () {
         clearall();
     });
 
+    $("#hyperbolictrignocollapsebtn").click(function(){
+        openit("#hyperbolicratios");
+        closenav();
+        clearall();
+    });
 
 })
 

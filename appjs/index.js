@@ -285,7 +285,8 @@ function openit(id) {
         "#ellipsoid",
         "#expo",
         "#setformula",
-        "#fourier_series"
+        "#fourier_series",
+        "#hyperbolicratios"
     ];
     for (i = 0; i < ids.length; i++) {
         if (ids[i] != id) {
